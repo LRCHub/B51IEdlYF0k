@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "無垢な季節 (2022 Remaster)",
+  "base_artist": "ゲスの極み乙女",
+  "createdAt": "2026-02-10T07:12:43.359046Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無垢な季節",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_無垢な季節_ゲスの極み乙女。.txt"
+    }
+  ]
+}
